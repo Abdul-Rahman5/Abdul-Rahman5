@@ -1,7 +1,7 @@
 # Hi there, I'm Abdul-Rahman Omar 👋
 
 ### 🚀 Software Engineer | Full-Stack Web Developer
-I am a passionate developer dedicated to building scalable web applications and simplifying complex programming concepts for the next generation of coders.
+I am a professional Software Engineer based in Egypt, focused on building robust web applications and efficient backend systems. I specialize in delivering high-quality code and modern user experiences.
 
 ---
 
@@ -9,29 +9,20 @@ I am a passionate developer dedicated to building scalable web applications and 
 
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
 - **Backend:** PHP, Laravel, MySQL.
-- **Tools & Trends:** AI Automation, Cloud Computing, Git & GitHub.
+- **Interests:** Emerging Tech Trends, Cloud Computing, and System Architecture.
 
 ---
 
-### 📚 My Projects
-- **Routy:** An integrated E-Bus web application and shipping management system.
-- **School Management System:** A robust system with complex role-based access control (RBAC) for admins, teachers, and students.
-- **Copa:** My educational initiative focused on making programming accessible and practical.
-
----
-
-### 👨‍🏫 Mentorship & Education
-Beyond coding, I focus on:
-- Technical mentorship for beginners.
-- Creating simplified programming curricula for children.
-- Building a community through my educational brand **Copa**.
+### 💻 Professional Projects
+- **School Management System:** A comprehensive platform featuring advanced Role-Based Access Control (RBAC) for managing admins, teachers, and students efficiently.
+- **Full-Stack Web Applications:** Developed various scalable solutions using the Laravel and React ecosystem.
 
 ---
 
 ### 📫 Let's Connect
-- 🌍 Based in **Egypt** (Cairo/Alexandria)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- ✉️ [Email](mailto:your-email@example.com)
+- 🌍 Located in **Egypt** (Cairo )
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rahman-omar-sw/)
+- ✉️ [Email](mailto:abdulrahmanom568@gmail.com)
 
 ---
-*“Simplicity is the ultimate sophistication.”*
+*“Code is like humor. When you have to explain it, it’s bad.”*
