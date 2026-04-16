@@ -1,48 +1,37 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abdul-Rahman Omar 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Tech Stack, e.g., React Native or Go]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your Expertise, e.g., Web Development]**
-- ⚡ Fun fact: **[Something interesting about you]**
+### 🚀 Software Engineer | Full-Stack Web Developer
+I am a passionate developer dedicated to building scalable web applications and simplifying complex programming concepts for the next generation of coders.
 
 ---
 
-### 🚀 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### 🛠️ Technical Stack
+
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
+- **Backend:** PHP, Laravel, MySQL.
+- **Tools & Trends:** AI Automation, Cloud Computing, Git & GitHub.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight"/>
-</p>
+### 📚 My Projects
+- **Routy:** An integrated E-Bus web application and shipping management system.
+- **School Management System:** A robust system with complex role-based access control (RBAC) for admins, teachers, and students.
+- **Copa:** My educational initiative focused on making programming accessible and practical.
 
 ---
 
-### 📬 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/[YourLinkedIn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:[YourEmail]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://twitter.com/[YourTwitter]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
+### 👨‍🏫 Mentorship & Education
+Beyond coding, I focus on:
+- Technical mentorship for beginners.
+- Creating simplified programming curricula for children.
+- Building a community through my educational brand **Copa**.
 
 ---
 
-### 🏆 Top Projects
-1. **[Project Name]** - [Brief description]
-2. **[Project Name]** - [Brief description]
+### 📫 Let's Connect
+- 🌍 Based in **Egypt** (Cairo/Alexandria)
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- ✉️ [Email](mailto:your-email@example.com)
+
+---
+*“Simplicity is the ultimate sophistication.”*
